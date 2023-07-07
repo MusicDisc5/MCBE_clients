@@ -14,7 +14,7 @@
   
   <h3 aling:"center"> Onix Client </h3>
   <p>
-   Paid Version (V3 for 4$ on their Patreon) has more features, such as scripting, motion blur, new ui. Supports 1.16 - 1.20.1
+   Paid Version (V3 for 4$ on their Patreon) has more features, such as scripting, motion blur, new ui. Supports 1.16 - 1.20.1 </p> <p>
    Free Version (V2.81 and free) updates irregularly/slow. Supports 1.16-1.20
 
    Links: https://onixclient.com and https://discord.gg/onixclient
