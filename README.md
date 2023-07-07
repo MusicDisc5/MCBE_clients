@@ -38,10 +38,10 @@
    -BedrockLauncher: https://bedrocklauncher.github.io
   </p>
   <p>
-    Or use appx files to downgrade your game:
-    -Onix Client Compatible Appx Repository: https://github.com/bernarddesfosse/onix_compatible_appx/releases
-    -Where Ventile Launcher got its Versions from: https://github.com/Ventile-Client/VersionChanger/releases
-  </p>
+    Or use appx files to downgrade your game: </p>
+    <p> -Onix Client Compatible Appx Repository: https://github.com/bernarddesfosse/onix_compatible_appx/releases</p>
+    <p> -Where Ventile Launcher got its Versions from: https://github.com/Ventile-Client/VersionChanger/releases </p>
+  
   
 </div>
 <br>
