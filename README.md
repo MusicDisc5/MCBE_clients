@@ -26,8 +26,18 @@
 
   Links: https://discord.gg/latite and https://github.com/Imrglop/Latite-Releases/releases/
   </p>
+
+  <h3> Luconia Client </h3>
+  <p> Free; Currently only supports 1.19.51-1.19.71; is still in development 
+
+  Link: https://discord.gg/luconia-community-926027235293536266 and https://github.com/Luconia/Launcher
+  </p>
+
+  <h2>Upcoming Clients</h2>
+  <p>-The creator of Bedrock+ announced that they are working on a dll client: https://discord.gg/x92TtTcr2m </p>
+  <p></p>
   
-  <h3> Also: if you really want to use outdated clients, you can downgrade your games version using one of these tools. </h3>
+  <h2> Also: if you really want to use outdated clients, you can downgrade your games version using one of these tools. </h2>
   <p>
    -FoxyNoTail's Version and Profile Switcher: https://foxynotail.com/software/mcbe-switcher/
   </p>
