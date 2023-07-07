@@ -35,7 +35,9 @@
 
   <h2>Upcoming Clients</h2>
   <p>-The creator of Bedrock+ announced that they are working on a dll client: https://discord.gg/x92TtTcr2m </p>
-  <p></p>
+  <p>-Project Lumen. https://discord.chrones.io/lumen </p>
+  <p>-Bari Mod/Flarial Client: https://flarial.net/faq</p>
+  <p>-Wiser mod: https://discord.gg/vMwqF7AhDB</p>
   
   <h2> Also: if you really want to use outdated clients, you can downgrade your games version using one of these tools. </h2>
   <p>
@@ -51,7 +53,9 @@
     Or use appx files to downgrade your game: </p>
     <p> -Onix Client Compatible Appx Repository: https://github.com/bernarddesfosse/onix_compatible_appx/releases</p>
     <p> -Where Ventile Launcher got its Versions from: https://github.com/Ventile-Client/VersionChanger/releases </p>
-  
+  <h3>Some other tools that might be usefull managing multiple Versions/Mods/Profiles:</h3>
+  <p>Jiayi Launcher: https://discord.gg/gx8KUvdk4B?event=1091862534476275833 and https://jiayi.software/launcher</p>
+  <p>StarZ Launcher: https://discord.gg/ScR9MGbRSY</p>
   
 </div>
 <br>
